@@ -4,16 +4,16 @@
 
 ## Links and Resources:
  ### Heroku:
-
+ 
+ https://api-sever.herokuapp.com/
 
 
 * ### Github Actions:
-
+https://github.com/saleem-ux/api-server/actions
 
 * ### pull request :
-
-
-
+ https://github.com/saleem-ux/api-server/pull/1
+ 
 ## Setup 
 ### .env requirements :
 * ### PORT=3000
